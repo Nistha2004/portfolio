@@ -7,8 +7,7 @@
   "showCursor": true,
   "showBlog": false,
   "darkMode": true,
-  "themeColor": "#0b1d4f"  // Dark navy hex
-}
+  "themeColor": "#0b1d4f"  ,
   "showResume": true,
   "socials": [
     {
@@ -25,14 +24,19 @@
       "id": "3",
       "title": "Email",
       "link": "mailto:nisthasinha21@gmail.com"
-    }
+    },
+      {
+  "id": "4",
+  "title": "Phone",
+  "link": "tel:+91-7099724639"
+}
   ],
   "projects": [
     {
       "id": "1",
       "title": "Phishing Attack Analysis",
       "description": "Cybersecurity",
-      "imageSrc": "https://images.unsplash.com/photo-1510511459019-5dda7724fd87",
+      "imageSrc": "net.avif",
       "url": "https://github.com/Nistha2004/phishing-attack-analysis"
     },
       {
@@ -40,7 +44,7 @@
   "title": "Smart Mirror Project",
   "description": "IoT & Development",
   "imageSrc": "smartmirrorpicture.png",
-  "url": null
+  "url": "https://drive.google.com/drive/folders/1-DANmUMJzVeMk4-q1YfQC4_HPP76-O9s?usp=drive_link"
 
     },
     {
@@ -48,7 +52,7 @@
       "title": "PonderPod Study Website",
       "description": "Web Development",
       "imageSrc": "https://images.unsplash.com/photo-1498050108023-c5249f4df085",
-      "url": null
+      "url": "https://drive.google.com/drive/folders/1-Gew_4A_lvw4lrKjq4BzDOpPTijSdgW7?usp=drive_link"
     }
   ],
   "services": [
