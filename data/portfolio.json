@@ -7,6 +7,8 @@
   "showCursor": true,
   "showBlog": false,
   "darkMode": true,
+  "themeColor": "#0b1d4f"  // Dark navy hex
+}
   "showResume": true,
   "socials": [
     {
